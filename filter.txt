@@ -1,1 +1,4 @@
+! Title: Seia-Soto/filter-kr
+! Homepage: https://github.com/Seia-Soto/filter-kr
+
 www.acmicpc.net##a[onclick^="App.trackOutboundLink"]
