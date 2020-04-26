@@ -2,3 +2,5 @@
 ! Homepage: https://github.com/Seia-Soto/filter-kr
 
 www.acmicpc.net##a[onclick^="App.trackOutboundLink"]
+kkutu.co.kr##img[class="banner"]
+kkutu.co.kr##div[id="ADVERTISEMENT"]
