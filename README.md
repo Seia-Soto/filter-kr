@@ -32,3 +32,7 @@
 ### [`twitterTrends.txt`](extra/twitterTrends.txt)
 
 트위터 웹 앱 우측에 표시되는 트랜드를 제거합니다.
+
+### [`ebsocPopup.txt`](extra/ebsocPopup.txt)
+
+EBS 온라인클래스에서 표시되는 팝업과 로그인 페이지의 간접 광고를 제거합니다.
