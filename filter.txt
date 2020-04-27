@@ -2,7 +2,7 @@
 ! Title: Seia-Soto/filter-kr
 ! Homepage: https://github.com/Seia-Soto/filter-kr
 ! Expires: 1 day
-! Version: 1587979927174
+! Version: 1587982145941
 
 www.acmicpc.net##a[onclick^="App.trackOutboundLink"]
 kkutu.co.kr##img[class="banner"]
@@ -12,3 +12,7 @@ flsaudio.com##li[class="homeadv"]
 coupang.com##div[id^="sdp-bottom-banner"]
 coupang.com##div[id^="sdpBottomAds"]
 coupang.com##div[class^="sdp-ads"]
+koreaminecraft.net##div[class^="wst_ad_badge"]:nth-ancestor(4)
+koreaminecraft.net##h5:has-text(/한마포 AD/):nth-ancestor(4)[class^="eq card card-default"]:nth-ancestor(1)
+koreaminecraft.net##div[class="ka-red"]
+koreaminecraft.net##div[class^="wst_ad"]
