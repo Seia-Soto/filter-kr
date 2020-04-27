@@ -2,10 +2,13 @@
 ! Title: Seia-Soto/filter-kr
 ! Homepage: https://github.com/Seia-Soto/filter-kr
 ! Expires: 2 day
-! Version: 1587979657069
+! Version: 1587979927174
 
 www.acmicpc.net##a[onclick^="App.trackOutboundLink"]
 kkutu.co.kr##img[class="banner"]
 kkutu.co.kr##div[id="ADVERTISEMENT"]
 m.blog.naver.com##div[id="POST_VIEW_BOTTOM_WEB"]
 flsaudio.com##li[class="homeadv"]
+coupang.com##div[id^="sdp-bottom-banner"]
+coupang.com##div[id^="sdpBottomAds"]
+coupang.com##div[class^="sdp-ads"]
