@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Seia-Soto/filter-kr
 ! Homepage: https://github.com/Seia-Soto/filter-kr
-! Expires: 2 day
+! Expires: 1 day
 ! Version: 1587979927174
 
 www.acmicpc.net##a[onclick^="App.trackOutboundLink"]

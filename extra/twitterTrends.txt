@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Seia-Soto/filter-kr#twitterTrends
 ! Homepage: https://github.com/Seia-Soto/filter-kr
-! Expires: 2 day
+! Expires: 1 day
 ! Version: 1587890820262
 
 ! Twitter trends
