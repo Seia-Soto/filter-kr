@@ -2,16 +2,19 @@
 ! Title: Seia-Soto/filter-kr#ebsocPopup
 ! Homepage: https://github.com/Seia-Soto/filter-kr
 ! Expires: 1 day
-! Version: 1587894945862
+! Version: 1588033016570
 
 ! Main modal
-ebssw.kr##div[id^="mainModal"]
+ebssw.kr##div[id*="mainModal"]
 
 ! Floating banner
 ebssw.kr##div[class="float_banner"]
 
 ! Provider fee banner
-ebssw.kr##img[alt^="수신료"]:nth-ancestor(2):remove()
+ebssw.kr##img[alt*="수신료"]:nth-ancestor(2):remove()
 
 ! Login page right side advertisement
 ebssw.kr##img[src="/images/egovframework/com/ebs/main/banner_img.png"]:nth-ancestor(3):remove()
+
+! Popup modal
+ebssw.kr##div[id*="popupModal"]
