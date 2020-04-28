@@ -2,6 +2,8 @@
 
 **uBlock** filter for websites (mainly Korean) which has ad but didn't erase.
 
+- [Discord 서버에서 업데이트 받기](https://discordapp.com/invite/vAEBXWY)
+
 ## 목차
 
 - [설치하기](#설치하기)
