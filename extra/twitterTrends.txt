@@ -2,12 +2,10 @@
 ! Title: Seia-Soto/filter-kr#twitterTrends
 ! Homepage: https://github.com/Seia-Soto/filter-kr
 ! Expires: 1 day
-! Version: 1587890820262
+! Version: 1589960384932
 
 ! Twitter trends
-twitter.com##div[class="css-1dbjc4n r-1ysxnx4 r-k0dy70 r-t23y2h r-1phboty r-rs99b7 r-ku1wi2 r-1udh08x"]
-twitter.com##span:has-text(/트렌드/):nth-ancestor(11):remove()
+twitter.com##div[class="css-1dbjc4n r-1uaug3w r-1uhd6vh r-t23y2h r-1phboty r-rs99b7 r-ku1wi2 r-1udh08x"]
 
 ! Disable when user enter /trends
-twitter.com/trends#@#div[class="css-1dbjc4n r-1ysxnx4 r-k0dy70 r-t23y2h r-1phboty r-rs99b7 r-ku1wi2 r-1udh08x"]
-twitter.com#@#span:has-text(/트렌드/):nth-ancestor(11):remove()
+twitter.com/trends#@#div[class="css-1dbjc4n r-1uaug3w r-1uhd6vh r-t23y2h r-1phboty r-rs99b7 r-ku1wi2 r-1udh08x"]
