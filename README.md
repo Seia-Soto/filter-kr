@@ -67,3 +67,9 @@
 EBS 온라인클래스에서 표시되는 팝업과 로그인 페이지의 간접 광고를 제거합니다.
 
 > https://github.com/Seia-Soto/filter-kr/raw/master/extra/ebsocPopup.txt
+
+### [`twitterWhoToFollow.txt`](extra/twitterWhoToFollow.txt)
+
+트위터 웹 앱에 표시되는 팔로우 추천을 제거합니다.
+
+> https://github.com/Seia-Soto/filter-kr/raw/master/extra/twitterTrends.txt
