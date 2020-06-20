@@ -2,10 +2,11 @@
 ! Title: Seia-Soto/filter-kr
 ! Homepage: https://github.com/Seia-Soto/filter-kr
 ! Expires: 1 day
-! Version: 1588727379449
+! Version: 1592652811545
 
 ! Static network filters
 ||click.linkprice.com^$all
+||sizeloot-offers.best^$all
 
 ! Global cosmetic filters
 ##a[href*="click.linkprice.com"]
