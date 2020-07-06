@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Title: Seia-Soto/filter-kr#ebsocPopup
+! Title: Seia-Soto/filter-kr#extra/ebsocPopup
 ! Homepage: https://github.com/Seia-Soto/filter-kr
 ! Expires: 1 day
-! Version: 1588033016570
+! Version: 1593325496050
 
 ! Main modal
 ebssw.kr##div[id*="mainModal"]

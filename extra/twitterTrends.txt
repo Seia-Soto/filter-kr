@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Title: Seia-Soto/filter-kr#twitterTrends
+! Title: Seia-Soto/filter-kr#extra/twitterTrends
 ! Homepage: https://github.com/Seia-Soto/filter-kr
 ! Expires: 1 day
-! Version: 1590935310915
+! Version: 1593325496050
 
 ! Twitter trends
 twitter.com##div[aria-label*="트렌드"]:nth-ancestor(4)

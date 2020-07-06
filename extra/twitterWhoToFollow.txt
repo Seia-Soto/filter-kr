@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Title: Seia-Soto/filter-kr#twitterWhoToFollow
+! Title: Seia-Soto/filter-kr#extra/twitterWhoToFollow
 ! Homepage: https://github.com/Seia-Soto/filter-kr
 ! Expires: 1 day
-! Version: 1590935924111
+! Version: 1593325496050
 
 ! Twitter who to follow
 twitter.com##aside[aria-label*="팔로우 추천"]:nth-ancestor(1)
