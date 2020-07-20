@@ -2,7 +2,7 @@
 ! Title: Seia-Soto/filter-kr
 ! Homepage: https://github.com/Seia-Soto/filter-kr
 ! Expires: 1 day
-! Version: 1595216959636
+! Version: 1595217345098
 
 ! Static network filters
 ||click.linkprice.com^$all
@@ -28,3 +28,4 @@ koreaminecraft.net##div[class="signup_container"]
 koreaminecraft.net##div[class*="wst_random_banner"]
 outlook.live.com##div[class="_1i5KvAsU83Sr-2zY9weMMY"]
 simmani.com##a[href*="click.linkprice.com"]:nth-ancestor(4)
+mbti.glam.am##span:has-text(/매칭 참여 중/):nth-ancestor(2)
