@@ -1,0 +1,11 @@
+[Adblock Plus 2.0]
+! Title: Seia-Soto/filter-kr#extra/namuUseless
+! Homepage: https://github.com/Seia-Soto/filter-kr
+! Expires: 1 day
+! Version: 1595218127652
+
+! Namu.news right banner
+namu.wiki##h5:has-text(/나무뉴스/):nth-ancestor(1):remove()
+
+! Namu.live navbar item
+namu.wiki##a[title^="라이브"]:nth-ancestor(1):remove()

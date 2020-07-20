@@ -73,3 +73,9 @@ EBS 온라인클래스에서 표시되는 팝업과 로그인 페이지의 간�
 트위터 웹 앱에 표시되는 팔로우 추천을 제거합니다.
 
 > https://github.com/Seia-Soto/filter-kr/raw/master/extra/twitterWhoToFollow.txt
+
+### [`namuUseless.txt`](extra/namuUseless.txt)
+
+나무위키의 커뮤니티 및 뉴스 등 본문과 관련없는 모든 것을 삭제합니다.
+
+> https://github.com/Seia-Soto/filter-kr/raw/master/extra/namuUseless.txt
