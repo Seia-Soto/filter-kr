@@ -52,18 +52,6 @@
 
 > https://github.com/Seia-Soto/filter-kr/raw/master/filter.txt
 
-## `categories`
-
-추가 필터입니다. 광고 뿐만 아니라 사용 중에 불편을 발생시키는 기능 또한 차단합니다.
-
-단, 정상적으로 업데이트되지 않을 시에는 일부 웹 사이트가 오작동하거나 잘못된 항목을 차단할 수 있어 분리하였습니다.
-
-### [`annoyance.txt`](categories/annoyance.txt)
-
-접속하시려는 웹 사이트의 짜증나는 일부 기능을 숨기거나 차단합니다.
-
-> https://github.com/Seia-Soto/filter-kr/raw/master/categories/annoyance.txt
-
 ## `extra`
 
 추가 필터입니다. 매우 특정한 목적에 따라 따로 만듭니다.
