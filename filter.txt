@@ -12,20 +12,21 @@
 ##a[href*="click.linkprice.com"]
 
 ! Domain cosmetic filters
-www.acmicpc.net##a[onclick^="App.trackOutboundLink"]
-kkutu.co.kr##img[class="banner"]
-kkutu.co.kr##div[id="ADVERTISEMENT"]
-m.blog.naver.com##div[id="POST_VIEW_BOTTOM_WEB"]
-flsaudio.com##li[class="homeadv"]
-coupang.com##div[id*="sdp-bottom-banner"]
-coupang.com##div[id*="sdpBottomAds"]
-coupang.com##div[class*="sdp-ads"]
-koreaminecraft.net##div[class="wst_ad_badge"]:nth-ancestor(4)
-koreaminecraft.net##h5:has-text(/한마포 AD/):nth-ancestor(4)[class^="eq card card-default"]:nth-ancestor(1)
-koreaminecraft.net##div[class="ka-red"]
+www.acmicpc.net##a[onclick^="App.trackOutboundLink"]:remove()
+kkutu.co.kr##img[class="banner"]:remove()
+kkutu.co.kr##div[id="ADVERTISEMENT"]:remove()
+m.blog.naver.com##div[id="POST_VIEW_BOTTOM_WEB"]:remove()
+flsaudio.com##li[class="homeadv"]:remove()
+coupang.com##div[id*="sdp-bottom-banner"]:remove()
+coupang.com##div[id*="sdpBottomAds"]:remove()
+coupang.com##div[class*="sdp-ads"]:remove()
+koreaminecraft.net##div[class="wst_ad_badge"]:nth-ancestor(4):remove()
+koreaminecraft.net##h5:has-text(/한마포 AD/):nth-ancestor(4)[class^="eq card card-default"]:nth-ancestor(1):remove()
+koreaminecraft.net##div[class="ka-red"]:remove()
 koreaminecraft.net##div[class*="wst_ad"]
-koreaminecraft.net##div[class="signup_container"]
-koreaminecraft.net##div[class*="wst_random_banner"]
-outlook.live.com##div[class="_1i5KvAsU83Sr-2zY9weMMY"]
-simmani.com##a[href*="click.linkprice.com"]:nth-ancestor(4)
-mbti.glam.am##span:has-text(/매칭 참여 중/):nth-ancestor(2)
+koreaminecraft.net##div[class="signup_container"]:remove()
+koreaminecraft.net##div[class*="wst_random_banner"]:remove()
+outlook.live.com##div[class="_1i5KvAsU83Sr-2zY9weMMY"]:remove()
+simmani.com##a[href*="click.linkprice.com"]:nth-ancestor(4):remove()
+mbti.glam.am##span:has-text(/매칭 참여 중/):nth-ancestor(2):remove()
+studyforus.com##a:has-text(/등록/):nth-ancestor(4)[class^="xe-widget-wrapper"]:nth-ancestor(2):remove()
