@@ -8,6 +8,10 @@
 ||click.linkprice.com^$all
 ||sizeloot-offers.best^$all
 
+! URL filters
+||discord.com/api/v7/science^$document
+||discord.com/api/v8/science^$document
+
 ! Global cosmetic filters
 ##a[href*="click.linkprice.com"]
 
